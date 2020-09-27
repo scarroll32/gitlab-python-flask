@@ -1,0 +1,4 @@
+bandit==1.5.1
+behave
+flake8
+tox
